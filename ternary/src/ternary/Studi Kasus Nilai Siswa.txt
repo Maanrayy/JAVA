@@ -1,0 +1,3 @@
+KKM = 80
+Bila >= Dinyatakan Lulus
+Bila <= Dinyatakan Tidak Lulus
