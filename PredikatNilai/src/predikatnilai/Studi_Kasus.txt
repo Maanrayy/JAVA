@@ -1,0 +1,10 @@
+========Rentang nilai========
+85-100 = A = 4 = Lulus
+76-84  = B+ = 3,5 = Lulus
+71-75 = B = 3 = Lulus
+66-70 = C+ = 2,5 = Lulus
+61-65 = C = 2 = Lulus
+51-60 = D = 1 Tidak Lulus
+<50 = E = 0 = Tidak Lulus
+
+Rentang nilai input 0-100
