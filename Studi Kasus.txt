@@ -1,0 +1,15 @@
+Membuat Program Sederhana ketuntasan Nilai dengan if dan else
+Jika rata-rata nilai >= 80(KKM), Maka = Lulus, Jika <80(KKM) =Tidak Lulus.
+
+
+Masukkan Nilai mata kuliah :
+1. Web Design = 
+2. Basis Data = 
+3. Pemrograman Dasar =
+4. jaringan Komputer = 
+
+Rumus :
+jumlah nilai = tambahkan semua daftar mata kuliah
+rata - rata = hasil penjumlahan / 4 
+
+= hasil
